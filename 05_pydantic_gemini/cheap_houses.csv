@@ -1,0 +1,9 @@
+price,monthly_fee,living_area,number_rooms,type,address
+4500000,2900,130.0,5,house,"Violvägen 3, 224 56 Lund"
+3800000,2800,125.0,4,house,"Solrosvägen 11, 554 57 Jönköping"
+3600000,3300,110.0,5,house,"Bergvägen 22, 981 32 Kiruna"
+4900000,3100,145.0,6,house,"Parkvägen 7, 352 35 Växjö"
+3200000,2500,115.0,4,house,"Skogsvägen 1, 974 31 Luleå"
+3900000,2700,120.0,4,house,"Granbacksvägen 10, 191 43 Sollentuna"
+3500000,2600,135.0,5,house,"Björkbacksvägen 4, 903 39 Umeå"
+4200000,3000,160.0,6,house,"Stenhuggarvägen 7, 621 40 Visby"
